@@ -1,1 +1,3 @@
-#hello moda fuca XD
+#include "character.h"
+
+int main(){}
